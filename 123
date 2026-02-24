@@ -1,0 +1,4 @@
+132132
+# Application configuration value (magic number).
+# This file is consumed as a plain-text numeric constant by the application.
+# Do not change this value without updating all dependent code that reads it.
